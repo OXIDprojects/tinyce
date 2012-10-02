@@ -13,4 +13,4 @@
     
 * * *
 
-*Important:* Please post pull requests/issues to <https://github.com/gn2netwerk/tinyce>. We might not see the ones on OXIDprojects
+*Important:* Please post pull requests/issues to <https://github.com/gn2netwerk/tinyce>. We might not see the ones on OXIDprojects.
